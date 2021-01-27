@@ -36,7 +36,7 @@ class App:
         )
 
         y_pred = model.predict(test_x)
-        sub['quality'] = np.int32(y_pred)
+        sub['quality'] = np.int32(np.around(y_pred))
         sub.to_csv('submission.csv', index=False)
 
 if __name__ == "__main__":
