@@ -4,3 +4,4 @@
 |Date|Subject|
 |-|-|
 |Jan. 01, 2021| Wine Quality Classifcation|
+|Jan. 28, 2021| Titanic Survivor|
