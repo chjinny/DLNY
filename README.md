@@ -5,3 +5,4 @@
 |-|-|
 |Jan. 01, 2021| Wine Quality Classifcation|
 |Jan. 28, 2021| Titanic Survivor|
+|Feb. 08, 2021| Cassava Leaf Disease|
